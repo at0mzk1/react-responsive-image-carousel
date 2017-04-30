@@ -1,4 +1,5 @@
 # React Responsive Image Carousel
+[![npm version](https://badge.fury.io/js/react-responsive-image-carousel.svg)](https://badge.fury.io/js/react-responsive-image-carousel)
 
 React Responsive Image Carousel is a wrapper for leandrowd's react-responsive-carousel package (https://github.com/leandrowd/react-responsive-carousel).
 
@@ -8,7 +9,8 @@ This package allows the developer to pass in an array of images as a prop, along
 Many thanks to https://github.com/leandrowd/ for doing such a great job writing and maintaining the underlying component that this package wraps!
 
 ### Installation
-The package can be installed through npm.
+The package can be installed through npm
+https://www.npmjs.com/package/react-responsive-image-carousel
 ```
 $ npm install -S react-responsive-image-carousel
 ```

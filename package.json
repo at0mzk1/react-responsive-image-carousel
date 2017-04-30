@@ -18,7 +18,7 @@
     "image",
     "gallery"
   ],
-  "author": "krumbot",
+  "author": "https://github.com/krumbot/",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/krumbot/react-responsive-image-carousel/issues"
