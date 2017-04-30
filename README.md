@@ -1,16 +1,16 @@
-# React Image Carousel
+# React Responsive Image Carousel
 
-React Image Carousel is a wrapper for leandrowd's react-responsive-carousel package (https://github.com/leandrowd/react-responsive-carousel).
+React Responsive Image Carousel is a wrapper for leandrowd's react-responsive-carousel package (https://github.com/leandrowd/react-responsive-carousel).
 
 # Overview
-React Image Carousel allows the developer to pass in an array of images as a prop, along with any props associated with the react-responsive-carousel package in order to render an image carousel.
+This package allows the developer to pass in an array of images as a prop, along with any props associated with the react-responsive-carousel package in order to render an image carousel.
 
 Many thanks to https://github.com/leandrowd/ for doing such a great job writing and maintaining the underlying component that this package wraps!
 
 ### Installation
 The package can be installed through npm.
 ```
-$ npm install -S react-image-carousel
+$ npm install -S react-responsive-image-carousel
 ```
 
 ### Quick Example

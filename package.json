@@ -1,5 +1,5 @@
 {
-  "name": "react-image-carousel",
+  "name": "react-responsive-image-carousel",
   "version": "1.0.0",
   "description": "Wrapper for react-responsive-carousel npm package",
   "main": "./lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krumbot/image-carousel.git"
+    "url": "git+https://github.com/krumbot/react-responsive-image-carousel.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "krumbot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/krumbot/image-carousel/issues"
+    "url": "https://github.com/krumbot/react-responsive-image-carousel/issues"
   },
-  "homepage": "https://github.com/krumbot/image-carousel#readme",
+  "homepage": "https://github.com/krumbot/react-responsive-image-carousel#readme",
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.5.8",
