@@ -21,7 +21,7 @@ $ npm install -S react-responsive-image-carousel
 Please refer to the documentation of the react-responsive-carousel package for additional information (linked at the top of this readme).
 
 ```js
-import ImageCarousel from 'react-image-carousel';
+import ImageCarousel from 'react-responsive-image-carousel';
 class myApp extends React.Component {
     render() {
         const images = ['./pathToImage_1.png', './pathToImage_2.png', './pathToImage_3.png'];
